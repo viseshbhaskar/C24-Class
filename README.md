@@ -1,2 +1,2 @@
-# C24-Class
-Angry Birds game design with PI principles
+# p5.play-boilerplate
+Boiler plate for p5.play
